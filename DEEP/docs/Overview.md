@@ -1,7 +1,7 @@
-# Welcome to MkDocs
+# Overview
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-[about](about).
+[about](about.md).
 
 ## Commands list
 

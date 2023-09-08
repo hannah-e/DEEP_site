@@ -1,3 +1,13 @@
 site_name: My Docs
 theme:
   name: material
+  features: navigation.tabs #add horizontal navigation tabs
+  logo: assets/logo.png # adds our logo to the header bar
+  palette:
+    primary: teal 
+extra:
+  generator: false #removes "made with Material for mkdocs" from footer
+  social: #add socials to footer
+    - icon: fontawesome/brands/twitter 
+      link: twitter.com
+copyright: Copyright &copy; 2023 DEEP Partnership
