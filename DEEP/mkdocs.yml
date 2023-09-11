@@ -1,13 +1,19 @@
-site_name: My Docs
+site_name: Diverse Epigenetics Epidemiology Partnership
 theme:
   name: material
   features: navigation.tabs #add horizontal navigation tabs
   logo: assets/logo.png # adds our logo to the header bar
+  favicon: images/logo.png
   palette:
-    primary: teal 
+    primary: teal #changes header bar and accent colours to teal see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
 extra:
   generator: false #removes "made with Material for mkdocs" from footer
-  social: #add socials to footer
-    - icon: fontawesome/brands/twitter 
-      link: twitter.com
-copyright: Copyright &copy; 2023 DEEP Partnership
+  #social: #add socials to footer
+  #  - icon: fontawesome/brands/twitter 
+  #    link: twitter.com
+copyright: Copyright &copy; 2023 DEEP
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - toc:
+      toc_depth: 0 #hide the table on contents in the right hand panel
