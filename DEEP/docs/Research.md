@@ -10,7 +10,7 @@ We will work collaboratively with our partners who have collected data on DNA me
 
 
 #### **Aim One** 
-In this aim, we will study genetic and environmental determinants of DNA methylation variation between people. This will help us to understand the mechanisms of DNA methylation variability across the human population. This work follows on from the work in the [GoDMC consortium](http://www.godmc.org.uk/) who mapped mQTLs (associations between genetic variants and DNA methylation) in cohorts recruited in Europe 
+In this aim, we will study genetic and environmental determinants of DNA methylation variation between people. This will help us to understand the mechanisms of DNA methylation variability across the human population. This work follows on from the work in the <a href= "http://www.godmc.org.uk/"target="_blank"> GoDMC</a> who mapped mQTLs (associations between genetic variants and DNA methylation) in cohorts recruited in Europe 
 
 >***Objective 1:*** Create a comprehensive mQTL resource reflecting geographic and genetic diversity
 
