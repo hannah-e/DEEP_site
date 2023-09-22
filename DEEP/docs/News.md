@@ -1,3 +1,3 @@
 # News
 
-News here
+Awaiting content
