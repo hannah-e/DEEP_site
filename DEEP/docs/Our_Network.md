@@ -26,6 +26,9 @@ Our network includes 20 project partners and cohorts worldwide and brings togeth
 <a href="http://www.rod-am.eu" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Agyemang_Rodam.png?raw=true">
 </a>
+<a href="https://www.tgen.org/faculty-profiles/nicholas-banovich/" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Banovich_TGEN.png?raw=true">
+</a>
 <a href="https://med.stanford.edu/cardenas-lab.html" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Cardenas_CRELES.png?raw=true">
 </a>
