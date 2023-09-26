@@ -78,7 +78,7 @@ Our network includes 20 project partners and cohorts worldwide and brings togeth
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/QuintanaMurci_Pasteur.png?raw=true">
 </a>
 <a href="https://www.hbku.edu.qa/en" target="_blank">
-<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/TelezPlaza_ISCIII.png?raw=true">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/TellezPlaza_ISCIII.png?raw=true">
 </a>
 <a href="https://www.isciii.es/Paginas/Inicio.aspx" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Yousri_HBKU.png?raw=true">
