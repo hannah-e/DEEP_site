@@ -13,8 +13,8 @@ DEEP examines the contribution of genetics and environment to DNA methylation va
 Variations in DNA methylation are influenced by both genetic makeup and environmental factors, making them critical elements in understanding health and disease. 
 
 The project will take several approaches to identify to gain insights into possible factors causing health disparity and improve global health
-- By comparing DNA methylation patterns of different populations, the project aims to identify genetic and environmental factors that influences DNA methylation variation.
-- By identifying and comparing molecular signatures linked to health outcomes across different contexts (for example geographical location) the project aims to identify which molecular mechanisms causing diseases are shared across populations and which are unique to particular groups or regions.
+- By comparing DNA methylation patterns of different populations we can identify genetic and environmental factors that influences DNA methylation variation.
+- By identifying and comparing molecular signatures linked to health outcomes across different contexts (for example geographical location) we can identify which molecular mechanisms causing diseases are shared across populations and which are unique to particular groups or regions.
 
 This 5-year project is funded by the Medical Research Council in the United Kingdom.             
 
