@@ -4,5 +4,5 @@
 - [ ] remove navigation pane
 - [ ] wrap pages to whole width
 - [ ] increase header bar size and logo
-- [ ] order pages in menu
+
 

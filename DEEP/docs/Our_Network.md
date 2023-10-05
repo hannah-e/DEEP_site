@@ -53,6 +53,9 @@ Our network includes 20 project partners and cohorts worldwide and brings togeth
 <a href="https://lab.vanderbilt.edu/microbiome/person/jironglong/" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Long_vanderbilt.png?raw=true">
 </a>
+<a href="https://www.hsph.harvard.edu/profile/diana-juvinao-quintero/" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/JuvinaoQuintero_Harvard.png?raw=true">
+</a>
 <a href="http://sph.pku.edu.cn/info/1317/4044.htm" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Lv_Peking.png?raw=true">
 </a>
@@ -74,7 +77,7 @@ Our network includes 20 project partners and cohorts worldwide and brings togeth
 <a href="https://research.pasteur.fr/en/member/etienne-patin/" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Patin_Pasteur.png?raw=true">
 </a>
-<a href="https://research.pasteur.fr/en/member/etienne-patin/" target="_blank">
+<a href="https://research.pasteur.fr/en/member/lluis-quintana-murci/" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/QuintanaMurci_Pasteur.png?raw=true">
 </a>
 <a href="https://www.hbku.edu.qa/en" target="_blank">
