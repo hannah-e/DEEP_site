@@ -17,8 +17,9 @@ extra_css:
   - stylesheets/extra.css
 
 markdown_extensions:
-   - toc:
-   - toc_depth: 0 #hide the table on contents in the right hand panel
+  - toc:
+      toc_depth: 0
+
 nav:
   - Home:
     - index.md #This is the first page you land on when you visit "Home"
@@ -26,6 +27,8 @@ nav:
     - Research.md #This is the first page you land on when you visit "Setup"
   - Our Network: 
     - Our_Network.md #This is a file under the "Users & Permissions" drop-down.
+  - How we operate:
+    - how_we_operate.md #This is the page you land on when you visit "how we operate"
   - News:
     - News.md #This is the first page you land on when you visit "Home"
   - Publications:
