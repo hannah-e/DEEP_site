@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Contact
 
 We welcome new collaborations with cohorts who have measured DNA methylation (using Illumina arrays or sequencing) and genetic data in study participants.      
