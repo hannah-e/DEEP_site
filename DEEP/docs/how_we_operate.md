@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 DEEP proposes the following strategies:
 
 - New genomic data generation on groups of people underrepresented in genomics research

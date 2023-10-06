@@ -1,8 +1,11 @@
 site_name: Diverse Epigenetics Epidemiology Partnership
 theme:
   name: material
-  features: navigation.tabs #add horizontal navigation tabs
-  logo: assets/logo.png # adds our logo to the header bar
+  features:
+    - navigation.tabs # Add horizontal navigation tabs
+    - navigation.tabs.sticky # Keep the header menu visible
+    - navigation.instant # Simulate an SPA (no page flicker / reload)
+  logo: assets/logo.png # Add our logo to the header bar
   favicon: images/logo.png
   palette:
     primary: teal #changes header bar and accent colours to teal see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
