@@ -4,4 +4,4 @@ DEEP proposes the following strategies:
 - Building of cost-effective infrastructure to conduct statistical analyses
 - Building new open access resources for the genetic and epigenetic community
 - Building partnerships around the world and promote equitable research
-- To foster community engagement with the partners
+- To promote community engagement and benefit sharing
