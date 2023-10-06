@@ -12,11 +12,13 @@ extra:
   #  - icon: fontawesome/brands/twitter 
   #    link: twitter.com
 copyright: Copyright &copy; 2023 DEEP
+
 extra_css:
   - stylesheets/extra.css
+
 markdown_extensions:
- # - toc:
- #     toc_depth: 0 #hide the table on contents in the right hand panel
+   - toc:
+   - toc_depth: 0 #hide the table on contents in the right hand panel
 nav:
   - Home:
     - index.md #This is the first page you land on when you visit "Home"
