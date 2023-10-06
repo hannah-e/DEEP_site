@@ -5,7 +5,7 @@
 
 The Diverse Epigenetic Epidemiology Partnership (DEEP) is a partnership of 20 research groups from around the world that aims to improve global health by exploring the effects of genomic diversity on disease risk across groups with many different ancestries. 
 
-DEEP comprises researchers that are interested in identifying disease mechanisms and drug targets that work for everyone and to improve understanding of differences in disease distribution and disease risk prediction across the world using DNA methylation. DNA methylation refers to modifications to DNA thereby turning your genes on or off.
+DEEP comprises researchers that are interested in identifying disease mechanisms and drug targets that work for all and to improve understanding of differences in disease mechanism and disease risk prediction across the world using DNA methylation. DNA methylation refers to modifications to DNA thereby turning your genes on or off.
 
 
 # Project design
