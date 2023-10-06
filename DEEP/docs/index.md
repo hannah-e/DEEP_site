@@ -11,7 +11,9 @@ DEEP comprises researchers who are interested in studying the differences in dis
 # Project design
 
 The project will take several approaches to gain insights into possible factors causing health disparity and to improve global health
+
 - By comparing DNA methylation patterns of different populations with different genetic and environmental background we can identify genetic and environmental factors that influence DNA methylation variation.
+
 - By identifying and comparing DNA methylation signatures linked to health outcomes across different groups of participants we can identify which molecular mechanisms causing diseases are shared across populations and which are unique to particular groups or regions.
 
 This 5-year project is funded by the Medical Research Council in the United Kingdom.             
