@@ -27,7 +27,7 @@ nav:
     - Research.md #This is the first page you land on when you visit "Setup"
   - Our Network: 
     - Our_Network.md #This is a file under the "Users & Permissions" drop-down.
-  - How we operate:
+  - 'How we operate':
     - how_we_operate.md #This is the page you land on when you visit "how we operate"
   - News:
     - News.md #This is the first page you land on when you visit "Home"
