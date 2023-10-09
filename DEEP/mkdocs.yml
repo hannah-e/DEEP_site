@@ -5,8 +5,8 @@ theme:
     - navigation.tabs # Add horizontal navigation tabs
     - navigation.tabs.sticky # Keep the header menu visible
     - navigation.instant # Simulate an SPA (no page flicker / reload)
-  logo: assets/logo.png # Add our logo to the header bar
-  favicon: images/logo.png
+  logo: assets/logo_square.png # Add our logo to the header bar
+  favicon: images/logo_square.png
   palette:
     primary: teal #changes header bar and accent colours to teal see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
 extra:
