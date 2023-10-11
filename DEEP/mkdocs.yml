@@ -5,10 +5,11 @@ theme:
     - navigation.tabs # Add horizontal navigation tabs
     - navigation.tabs.sticky # Keep the header menu visible
     - navigation.instant # Simulate an SPA (no page flicker / reload)
-  logo: assets/logo_square.png # Add our logo to the header bar
-  favicon: images/logo_square.png
+  logo: assets/logo_banner.png # Add our logo to the header bar
+  favicon: images/logo_banner.png
   palette:
     primary: white #changes header bar and accent colours to teal see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+  palette:    
     accent: blue
 extra:
   generator: false #removes "made with Material for mkdocs" from footer
