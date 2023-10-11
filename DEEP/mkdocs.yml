@@ -1,4 +1,4 @@
-site_name: Diverse Epigenetics Epidemiology Partnership
+#site_name: Diverse Epigenetics Epidemiology Partnership
 theme:
   name: material
   features:
@@ -9,7 +9,7 @@ theme:
   favicon: images/logo_banner.png
   palette:
     primary: white #changes header bar and accent colours to teal see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
-    accent: light blue
+    accent: blue
 
 extra:
   generator: false #removes "made with Material for mkdocs" from footer
