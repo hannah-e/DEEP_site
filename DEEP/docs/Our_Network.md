@@ -9,7 +9,7 @@ hide:
 <p align="center">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/world_map.png?raw=true">
 </p>
-Our network includes 20 project partners and cohorts worldwide and brings together epigenetic and genetic data from over 13,000 individuals
+Our network includes 20 project partners and cohorts worldwide, bringing together epigenetic and genetic data from over 13,000 individuals
 
 ### Principal Investigators
 <a href="https://research-information.bris.ac.uk/en/persons/josine-l-min" target="_blank">
@@ -94,6 +94,7 @@ Our network includes 20 project partners and cohorts worldwide and brings togeth
 </a>
 ### Scientific Advisory Panel
 chaired by
+
 <a href="https://research-information.bris.ac.uk/en/persons/george-davey-smith" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Davey_Smith_IEU.png?raw=true">
 </a>
