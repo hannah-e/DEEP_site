@@ -3,9 +3,7 @@
 }
 img[alt=profile photo Hannah Elliott] {
 	width: 200px;
-<style>
-  .md-typeset h1,
-  .md-content__button {
-    display: none;
-  }
-</style>}
+
+h1 {
+  color: dark blue;
+}
