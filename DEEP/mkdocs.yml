@@ -9,8 +9,7 @@ theme:
   favicon: images/logo_banner.png
   palette:
     primary: white #changes header bar and accent colours to teal see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
-  palette:    
-    accent: blue
+    # accent: blue
 extra:
   generator: false #removes "made with Material for mkdocs" from footer
   #social: #add socials to footer
