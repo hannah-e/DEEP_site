@@ -86,6 +86,9 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 <a href="https://research.pasteur.fr/en/member/lluis-quintana-murci/" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/QuintanaMurci_Pasteur.png?raw=true">
 </a>
+<a href="https://usmp.edu.pe/" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Sanchez_USMP.png?raw=true">
+</a>
 <a href="https://www.hbku.edu.qa/en" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/TellezPlazaISCIII.png?raw=true">
 </a>
