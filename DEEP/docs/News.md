@@ -6,7 +6,8 @@ hide:
 
 # News
 
-Groundbreaking genomics project will improve global diversity in population health insight
+**12 October 2023**
+**Groundbreaking genomics project will improve global diversity in population health insight**
 
 An international collaboration is aiming to improve global health by uncovering the effects of genomic and environmental diversity on differences in disease risk observed across the global population, thanks to a new partnership of 20 research groups from around the world. 
 
@@ -20,17 +21,17 @@ There is huge variation in disease onset and symptoms for people living in diffe
 
 The DEEP study researchers aim to bridge this gap by studying individuals representing diverse genetic and environmental contexts and learn which DNA methylation patterns contribute to their disease risk in each context. This research will enable identification of disease-causing mechanisms that are common worldwide and those which are unique to particular groups or regions. It will help with answering questions such as whether medicines developed in one part of the world will be effective for all. Ultimately the DEEP study hopes to enable targeted interventions or treatments and reduce global health disparity and inequity.
 
-Dr Josine Min, Research Fellow in Genetic and Epigenetic Epidemiology at the MRC Integrative Epidemiology Unit (MRC IEU) at the University of Bristol, and joint project lead, said: ”Current DNA databases are mainly European. Genetic databases for genomic research need diversity to help all people and to get a better understanding of which factors are causing differences in gene regulation and therefore differences in disease risk.”
+[Dr Josine Min](https://research-information.bris.ac.uk/en/persons/josine-l-min), Research Fellow in Genetic and Epigenetic Epidemiology at the [MRC Integrative Epidemiology Unit](http://www.bristol.ac.uk/integrative-epidemiology/) (MRC IEU) at the University of Bristol, and joint project lead, said: ”Current DNA databases are mainly European. Genetic databases for genomic research need diversity to help all people and to get a better understanding of which factors are causing differences in gene regulation and therefore differences in disease risk.”
 
-Dr Hannah Elliott, Research Fellow in Epidemiology in the MRC IEU at the University of Bristol, and joint project lead, added: “This project will vastly expand our current knowledge about DNA methylation variation and human health. Key to our project’s success is equitable collaboration between our project partners worldwide. 
+[Dr Hannah Elliott](https://research-information.bris.ac.uk/en/persons/hannah-r-elliott), Research Fellow in Epidemiology in the MRC IEU at the University of Bristol, and joint project lead, added: “This project will vastly expand our current knowledge about DNA methylation variation and human health. Key to our project’s success is equitable collaboration between our project partners worldwide. 
 
 “It is really important to work with partners who understand health in their respective cohorts and who are able to effectively share results back with the local communities who have donated their DNA.”
 
-Dr Giriraj Chandak, Sir J C Bose Fellow at the CSIR Centre for Cellular and Molecular Biology, India, and co-investigator, explained: “This collaborative study involving scientists with varied expertise provides a unique opportunity to understand gene-gene and gene-environment interaction and their role in intermediate traits associated with non-communicable diseases or the disease itself. 
+[Dr Giriraj Chandak](https://www.ccmb.res.in/People/Research-Group/G-R-Chandak), Sir J C Bose Fellow at the CSIR Centre for Cellular and Molecular Biology, India, and co-investigator, explained: “This collaborative study involving scientists with varied expertise provides a unique opportunity to understand gene-gene and gene-environment interaction and their role in intermediate traits associated with non-communicable diseases or the disease itself. 
 
 “I am very excited at the inclusion of Indian cohorts, (representing a sixth of the world population) with longitudinal data on subjects making it possible to draw causal inferences, in association with the trans-ancestry cohorts.”
 
-Dr Prachand Issarapu, Research Fellow in Bioinformatics at the MRC Unit The Gambia at London School of Hygiene & Tropical Medicine, UK and The Gambia, and co-investigator, said: “Understanding disease pathways that resonate across populations is key to crafting universally effective medicine. The DEEP study will unravel both population-specific and pan-ancestry (epi)genetic underpinnings, offering crucial insights into the determinants of human health and disease.”
+[Dr Prachand Issarapu](https://www.lshtm.ac.uk/aboutus/people/issarapu.prachand), Research Fellow in Bioinformatics at the MRC Unit The Gambia at London School of Hygiene & Tropical Medicine, UK and The Gambia, and co-investigator, said: “Understanding disease pathways that resonate across populations is key to crafting universally effective medicine. The DEEP study will unravel both population-specific and pan-ancestry (epi)genetic underpinnings, offering crucial insights into the determinants of human health and disease.”
 
 The project will initially focus on early-life health, which is a particular interest to the partners in Africa, and cardiovascular health, which is important to the partners in India. 
 
