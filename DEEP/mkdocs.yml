@@ -7,7 +7,7 @@ theme:
     - navigation.instant # Simulate an SPA (no page flicker / reload)
     - navigation.top
   logo: assets/logo_banner.png # Add our logo to the header bar
-  favicon: images/logo_banner.png
+  favicon: images/favicon.png
   palette:
     primary: white #changes header bar and accent colours to teal see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
     accent: blue
