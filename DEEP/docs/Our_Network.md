@@ -89,6 +89,9 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 <a href="https://usmp.edu.pe/" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Sanchez_USMP.png?raw=true">
 </a>
+<a href="http://sph.pku.edu.cn/English/Faculty/Department_of_Epidemiology_and_Biostatistics1.htm" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Si_Peking.png?raw=true">
+</a>
 <a href="https://www.lshtm.ac.uk/aboutus/people/silver.matthew/" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Silver_MRCG.png?raw=true">
 </a>
