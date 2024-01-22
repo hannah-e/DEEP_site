@@ -28,6 +28,10 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 <a href="https://www.lshtm.ac.uk/aboutus/people/issarapu.prachand" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Issarapu_MRCG.png?raw=true">
 </a>
+### Project Researchers 
+<a href="https://research-information.bris.ac.uk/en/persons/sarah-h-watkins" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Sarah_Watkins.png?raw=true">
+</a>
 ### Collaborators
 <a href="http://www.rod-am.eu" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Agyemang_Rodam.png?raw=true">

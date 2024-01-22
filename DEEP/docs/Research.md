@@ -28,7 +28,7 @@ In this aim, we will study genetic and environmental determinants of DNA methyla
 #### **Aim Two**
 In this aim we will work to understand mechanisms of disease and disease discordance between geographical groups of people for childhood and cardiovascular related phenotypes. Identifying these factors will improve exposure and risk prediction in the global population leading to improved health.
 
->***Objective 3:*** EWpigenome Wide Association Studies of cardiometabolic and child health phenotypes.
+>***Objective 3:*** Epigenome Wide Association Studies (EWAS) of cardiometabolic and child health phenotypes.
 
 >***Objective 4:*** Improve disease and exposure prediction across diverse cohorts
 
