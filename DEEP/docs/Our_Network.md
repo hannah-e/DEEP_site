@@ -60,6 +60,9 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 <a href="https://institucional.ufpel.edu.br/servidores/id/6531" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Hartwig_Pelotas.png?raw=true">
 </a>
+<a href="https://www.genome.gov/about-nhgri/Division-of-Intramural-Research/Center-for-Precision-Health-Research/" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Li_NHGRI.png?raw=true">
+</a>
 <a href="https://lab.vanderbilt.edu/microbiome/person/jironglong/" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Long_vanderbilt.png?raw=true">
 </a>

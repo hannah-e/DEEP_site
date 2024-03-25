@@ -22,9 +22,10 @@ The project will take several approaches to gain insights into possible factors 
 
 - By identifying and comparing DNA methylation signatures linked to health outcomes across different groups of participants we can identify which molecular mechanisms causing diseases are shared and which are unique to particular groups or regions.
 
-This 5-year project is funded by the Medical Research Council in the United Kingdom.             
+
+This 5-year project is funded by the Medical Research Council in the United Kingdom.
 
 </br>
-<a href=News>
-<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/News_header.png?raw=true">
+<a href="News">
+  <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/News_header.png?raw=true" alt="News" style="width:500px;"/>
 </a>

@@ -6,7 +6,13 @@ hide:
 
 # News
 
-**12 October 2023**
+**25 March 2024**<br>
+**Postdoctoal Fellow Position Available (South Africa)**
+Postdoctoral fellow position (Bioinformatics in Health Sciences) in the group of Prof. Marlien Pieters, North-West University, South Africa. Part of this post includes work on the Diverse Epigenetic Epidemiology Partnership (DEEP) study. <a href="https://health-sciences.nwu.ac.za/cen" target="_blank">Advert and more details</a>
+
+<br>
+
+**12 October 2023**<br>
 **Groundbreaking genomics project will improve global diversity in population health insight**
 
 An international collaboration is aiming to improve global health by uncovering the effects of genomic and environmental diversity on differences in disease risk observed across the global population, thanks to a new partnership of 20 research groups from around the world. 
