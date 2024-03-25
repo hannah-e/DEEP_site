@@ -7,7 +7,7 @@ hide:
 # News
 
 **25 March 2024**<br>
-**Postdoctoal Fellow Position Available (South Africa)**
+**Postdoctoral Fellow Position Available (South Africa)**
 Postdoctoral fellow position (Bioinformatics in Health Sciences) in the group of Prof. Marlien Pieters, North-West University, South Africa. Part of this post includes work on the Diverse Epigenetic Epidemiology Partnership (DEEP) study. <a href="https://health-sciences.nwu.ac.za/cen" target="_blank">Advert and more details</a>
 
 <br>
