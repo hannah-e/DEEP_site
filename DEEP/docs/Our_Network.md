@@ -22,6 +22,9 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 <a href="https://e-portal.ccmb.res.in/e-space/chandak/g-r-chandak1.html" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Chandak_CCMB.png?raw=true">
 </a>
+<a href="https://www.lshtm.ac.uk/aboutus/people/silver.matthew/" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Silver_MRCG.png?raw=true">
+</a>
 <a href="https://www.lshtm.ac.uk/aboutus/people/prentice.andrew" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Prentice_MRCG.png?raw=true">
 </a>
@@ -29,6 +32,9 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Issarapu_MRCG.png?raw=true">
 </a>
 ### Project Researchers 
+<a href="https://research-information.bris.ac.uk/en/persons/haotian-tang-2" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Tang_IEU.png?raw=true">
+</a>
 <a href="https://research-information.bris.ac.uk/en/persons/sarah-h-watkins" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Sarah_Watkins.png?raw=true">
 </a>
@@ -98,9 +104,6 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 </a>
 <a href="http://sph.pku.edu.cn/English/Faculty/Department_of_Epidemiology_and_Biostatistics1.htm" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Si_Peking.png?raw=true">
-</a>
-<a href="https://www.lshtm.ac.uk/aboutus/people/silver.matthew/" target="_blank">
-<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Silver_MRCG.png?raw=true">
 </a>
 <a href="https://www.hbku.edu.qa/en" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/TellezPlazaISCIII.png?raw=true">
