@@ -6,6 +6,29 @@ hide:
 
 # News
 
+**10 April 25**<br>
+**DEEP completes data generation in the STEM-GDM cohort**
+
+DEEP will be generating epigenetic and genetic array data in a bid to increase representation of individuals from across the globe. Illumina EPIC BeadChip data has now been generated in over 500 individuals from the Peru-based STEM-GDM cohort, in collaboration with <a href="https://hsph.harvard.edu/research/training-noncommunicable-disease/" target="_blank">Bizu Gelaye</a> and <a href="https://hsph.harvard.edu/profile/diana-juvinao-quintero/" target="_blank">Diana Juvinao-Quintero</a> at Havard T.H. Chan School of Public Health.
+<br>
+<br>
+
+
+**02 April 25**<br>
+**DEEP introduces three post-doctoral staff**
+
+DEEP has the pleasure of introducing three research staff associated with the partnership. We are joined by: 
+
+<a href="https://research-information.bris.ac.uk/en/persons/haotian-tang-2" target="_blank">Haotian Tang</a> (University of Bristol), who will lead analyses linked to Aim One of DEEP. 
+
+<a href="https://research-information.bris.ac.uk/en/persons/sarah-h-watkins" target="_blank">Sarah Watkins</a> (University of Bristol), who will lead analyses linked to DEEP Aim Two. 
+
+<a href="https://www.lshtm.ac.uk/aboutus/people/issarapu.prachand" target="_blank">Prachand Issarapu</a> (MRC Unit The Gambia at LSHTM), who will lead analyses linked to Aim Two.
+
+DEEP will recruit one more research staff member to the CSIR-CCMB in India, who is expected to be in post by the end of 2025.
+<br>
+<br>
+
 **09 May 2024**<br>
 **Senior Research Associate Position Available (Bristol, UK)**
 Senior Research Associate position (genetic and/or molecular epidemiology, health data science) working with Josine Min and Hannah Elliott at the University of Bristol, UK. This position is funded until 2028 and will undertake key analyses within the Diverse Epigenetic Epidemiology Partnership (DEEP) study. <a href="https://www.bristol.ac.uk/jobs/find/details/?jobId=346107&jobTitle=SENIOR%20RESEARCH%20ASSOCIATE%20%20IN%20GENETIC%20AND%2FOR%20MOLECULAR%20EPIDEMIOLOGY%2F%20POPULATION%20HEALTH%20DATA%20SCIENCE%20" target="_blank">Advert and more details</a>
