@@ -6,7 +6,7 @@ hide:
 
 # News
 
-**10 April 25**<br>
+**10 April 2025**<br>
 **DEEP completes data generation in the STEM-GDM cohort**
 
 DEEP will be generating epigenetic and genetic array data in a bid to increase representation of individuals from across the globe. Illumina EPIC BeadChip data has now been generated in over 500 individuals from the Peru-based STEM-GDM cohort, in collaboration with <a href="https://hsph.harvard.edu/research/training-noncommunicable-disease/" target="_blank">Bizu Gelaye</a> and <a href="https://hsph.harvard.edu/profile/diana-juvinao-quintero/" target="_blank">Diana Juvinao-Quintero</a> at Havard T.H. Chan School of Public Health.
@@ -14,7 +14,7 @@ DEEP will be generating epigenetic and genetic array data in a bid to increase r
 <br>
 
 
-**02 April 25**<br>
+**02 April 2025**<br>
 **DEEP introduces three post-doctoral staff**
 
 DEEP has the pleasure of introducing three research staff associated with the partnership. We are joined by: 
