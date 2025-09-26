@@ -15,14 +15,17 @@ The Diverse Epigenetic Epidemiology Partnership (DEEP) study held its first part
 
 The meeting started with a warm welcome by Hannah Elliott and Josine Min, Principal Investigators of the DEEP study. This was followed by inspiring flash talks from DEEP members, project management sessions and work package updates. Each session had lively discussions to which all members from diverse research areas contributed, clearly showing the benefits of meeting in person.  
 
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_meeting_group.jpg?raw=true">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_meeting.png?raw=true">
+
 The next day focused on new project ideas, and we celebrated the release of the DEEP analysis pipeline—a key milestone for the collaboration. We also discussed how we can use novel approaches of combining datasets which will strengthen our partnership. On the final day, we continued our discussions and planned publications.  
 
 Despite the famously wet weather in the Southwest of the United Kingdom, participants enjoyed exploring the historic Wills Memorial Building. Highlights included a climb to the top of the tower and a Great Hall tour, steeped in the University of Bristol’s rich history of scholarship. 
 
 The meeting marked an important step in strengthening international collaboration within DEEP and sets the stage for the next phase of the project. 
 
-<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Wills_Memorial_Building_Great_Hall.jpg?raw=true">
-
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_meeting_meal.jpg?raw=true">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_meeting_great_hall.jpg?raw=true">
  
 <br>
 <br>
