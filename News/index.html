@@ -801,11 +801,40 @@
 <h1 id="news">News</h1>
 <p><strong>September 2025</strong><br>
 <strong>DEEP Study Meeting 15th-17th September in Bristol</strong></p>
-<p>DEEP study meeting  </p>
 <p>The Diverse Epigenetic Epidemiology Partnership (DEEP) study held its first partnership meeting on 15-17th September 2025 in Bristol. The event brought together 24 members of the DEEP partnership from 14 countries across 5 continents. Three days were dedicated to discussions and presentations on the use of molecular data from diverse population groups to understand disease mechanisms and on how epigenetic research can advance health equity. </p>
 <p>The meeting started with a warm welcome by Hannah Elliott and Josine Min, Principal Investigators of the DEEP study. This was followed by inspiring flash talks from DEEP members, project management sessions and work package updates. Each session had lively discussions to which all members from diverse research areas contributed, clearly showing the benefits of meeting in person.  </p>
-<p><img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_meeting_group.png?raw=true">
-<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_meeting.jpeg?raw=true"></p>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <figure style="text-align: center; width: 45%;">
+    <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_meeting_group.png?raw=true" style="width:100%; height:auto; border-radius:8px;">
+    <figcaption>Group photo of DEEP meeting participants</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 45%;">
+    <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_meeting.jpeg?raw=true" style="width:100%; height:auto; border-radius:8px;">
+    <figcaption>Flash talk session at the DEEP meeting</figcaption>
+  </figure>
+</div>
+<p>This will:</p>
+<p>Make the images smaller (each taking ~45% width).</p>
+<p>Place them side by side.</p>
+<p>Add captions beneath each image.</p>
+<p>Do you want the images to remain side by side on mobile, or should they stack vertically when the screen is narrow?</p>
+<p>You said:
+stack vertically when the screen is narrow</p>
+<p>ChatGPT said:
+In that case, you can use a responsive flex container with flex-wrap: wrap;. That way, on wide screens they’ll be side by side, and on narrow screens they’ll stack automatically:</p>
+<p>html
+Copy code</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <figure style="flex: 1 1 300px; max-width: 45%; text-align: center;">
+    <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_meeting_group.png?raw=true" style="width:100%; height:auto; border-radius:8px;">
+    <figcaption>Group photo of DEEP meeting participants</figcaption>
+  </figure>
+  <figure style="flex: 1 1 300px; max-width: 45%; text-align: center;">
+    <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_meeting.jpeg?raw=true" style="width:100%; height:auto; border-radius:8px;">
+    <figcaption>Scientific discussions at the DEEP meeting</figcaption>
+  </figure>
+</div>
+
 <p>The next day focused on new project ideas, and we celebrated the release of the DEEP analysis pipeline—a key milestone for the collaboration. We also discussed how we can use novel approaches of combining datasets which will strengthen our partnership. On the final day, we continued our discussions and planned publications.  </p>
 <p>Despite the famously wet weather in the Southwest of the United Kingdom, participants enjoyed exploring the historic Wills Memorial Building. Highlights included a climb to the top of the tower and a Great Hall tour, steeped in the University of Bristol’s rich history of scholarship. </p>
 <p>The meeting marked an important step in strengthening international collaboration within DEEP and sets the stage for the next phase of the project. </p>
