@@ -32,6 +32,8 @@ Despite the famously wet weather in the Southwest of the United Kingdom, partici
 
 The meeting marked an important step in strengthening international collaboration within DEEP and sets the stage for the next phase of the project. 
 
+
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <figure style="flex: 1 1 300px; max-width: 45%; text-align: center;">
     <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_meeting_meal.jpg?raw=true" style="width:100%; height:auto; border-radius:8px;">
@@ -42,9 +44,7 @@ The meeting marked an important step in strengthening international collaboratio
     <figcaption>Wills Memorial Building Great Hall</figcaption>
   </figure>
 </div>
- 
-<br>
-<br>
+
 <br>
 <br>
 
