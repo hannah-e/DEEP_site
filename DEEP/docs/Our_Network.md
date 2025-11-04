@@ -105,11 +105,11 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 <a href="http://sph.pku.edu.cn/English/Faculty/Department_of_Epidemiology_and_Biostatistics1.htm" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Si_Peking.png?raw=true">
 </a>
-<a href="https://www.hbku.edu.qa/en" target="_blank">
+<a href="https://www.isciii.es/Paginas/Inicio.aspx" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/TellezPlazaISCIII.png?raw=true">
 </a>
-<a href="https://www.isciii.es/Paginas/Inicio.aspx" target="_blank">
-<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Yousri_HBKU.png?raw=true">
+<a href="https://alexu.edu.eg/" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Yousri_Alexandria.png?raw=true">
 </a>
 ### Scientific Advisory Panel
 chaired by
