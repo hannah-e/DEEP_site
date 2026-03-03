@@ -5,6 +5,19 @@ hide:
 ---
 
 # News
+**30 January 2026**<br>
+**DEEP completes data generation in Japan-based cohort samples**
+
+DEEP continues to generate epigenetic and genetic array data in a bid to increase representation of individuals from across the globe. Illumina Asian Screening Array data have now been generated in Japan-based cohort samples, in collaboration with <a href="http://pub2.db.tokushima-u.ac.jp/ERD/person/172447/profile-en.html" target="_blank">Shusuke Numata</a> at Tokushima University in Japan.
+<br>
+<br>
+
+**15 December 2025**<br>
+**DEEP completes data generation in the PURE-SA-NW cohort**
+
+DEEP is generating epigenetic and genetic array data in a bid to increase representation of individuals from across the globe. Illumina EPIC2 and H3Africa BeadChip data has now been generated in over 500 individuals from the South Africa based PURE-SA-NW cohort, in collaboration with <a href="https://health-sciences.nwu.ac.za/cen/marlien-pieters" target="_blank">Marlien Pieters</a>, <a href="https://health-sciences.nwu.ac.za/cen/lizelle-zandberg" target="_blank">Lizelle Zandberg </a> and <a href="https://www.linkedin.com/in/sinenhlanhla-x-h-mthembu/" target="_blank">Sinenhlanhla Mthembu </a> at North-West University. Data was generated at the <a href="https://www.cpgr.org.za/" target="_blank">CPGR</a> in South Africa.
+<br>
+<br>
 
 **September 2025**<br>
 **DEEP Study Meeting 15th-17th September in Bristol**

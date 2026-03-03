@@ -48,6 +48,9 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 <a href="https://med.stanford.edu/cardenas-lab.html" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Cardenas_CRELES.png?raw=true">
 </a>
+<a href="https://pure.amsterdamumc.nl/en/persons/felix-chilunga/" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Chilunga_RODAM.png?raw=true">
+</a>
 <a href="https://actrec.irins.org/profile/171391" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Dikshit_CCE.png?raw=true">
 </a>
@@ -77,6 +80,9 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 </a>
 <a href="http://sph.pku.edu.cn/info/1317/4044.htm" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Lv_Peking.png?raw=true">
+</a>
+<a href="https://www.linkedin.com/in/sinenhlanhla-x-h-mthembu" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Mthembu_PURE.png?raw=true">
 </a>
 <a href="https://www.publichealth.columbia.edu/profile/ana-navas-acien-md" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/NavasAcien_Mailman.png?raw=true">
@@ -110,6 +116,9 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 </a>
 <a href="https://alexu.edu.eg/" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Yousri_Alexandria.png?raw=true">
+</a>
+<a href="https://orcid.org/0000-0001-9309-8710" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Zandberg_PURE.png?raw=true">
 </a>
 ### Scientific Advisory Panel
 chaired by
