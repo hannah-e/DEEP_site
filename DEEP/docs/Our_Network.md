@@ -32,6 +32,9 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Issarapu_MRCG.png?raw=true">
 </a>
 ### Project Researchers 
+<a href="https://www.linkedin.com/in/sohail-rafik-mansuri" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Mansuri_CCMB.png?raw=true">
+</a>
 <a href="https://research-information.bris.ac.uk/en/persons/haotian-tang-2" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Tang_IEU.png?raw=true">
 </a>
