@@ -5,6 +5,22 @@ hide:
 ---
 
 # News
+**12 August 2026**<br>
+**DEEP introduces new post-doctoral staff member**
+
+DEEP has the pleasure of introducing <a href="https://www.linkedin.com/in/sohail-rafik-mansuri" target="_blank">Sohail Mansuri</a>  as our new DEEP post-doctoral team member. 
+Sohail is based at the CSIR-CCMB in Hyderabad, India and will lead analyses linked to Aim Two (prediction).
+
+<br>
+<br>
+
+**20 May 2026**<br>
+**DEEP completes data generation in RODAM**
+
+DEEP continues to generate epigenetic and genetic array data in a bid to increase representation of individuals from across the globe. Illumina H3A data have now been generated in Ghanaian RODAM cohort samples, in collaboration with <a href="http://www.rod-am.eu" target="_blank">RODAM</a> at Amsterdam UMC.
+<br>
+<br>
+
 **30 January 2026**<br>
 **DEEP completes data generation in Japan-based cohort samples**
 
