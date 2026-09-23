@@ -120,6 +120,9 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 <a href="https://www.isciii.es/Paginas/Inicio.aspx" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/TellezPlazaISCIII.png?raw=true">
 </a>
+<a href="https://www.researchgate.net/profile/Teresa-Tusie-Luna?ev=hdr_xprf" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Tusie-Luna_UNAM.png?raw=true">
+</a>
 <a href="https://alexu.edu.eg/" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Yousri_Alexandria.png?raw=true">
 </a>
