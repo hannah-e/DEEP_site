@@ -51,6 +51,9 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 <a href="https://med.stanford.edu/cardenas-lab.html" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Cardenas_CRELES.png?raw=true">
 </a>
+<a href="https://www.genyo.es/en/research/research-groups/genetics-and-genomics-of-immune-mediated-diseases/" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Carnero_Granada.png?raw=true">
+</a>
 <a href="https://pure.amsterdamumc.nl/en/persons/felix-chilunga/" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Chilunga_RODAM.png?raw=true">
 </a>
@@ -107,6 +110,9 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 </a>
 <a href="https://health-sciences.nwu.ac.za/cen/marlien-pieters" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Pieters_PURE.png?raw=true">
+</a>
+<a href="https://www.genyo.es/en/research/research-groups/genetics-and-genomics-of-immune-mediated-diseases/" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Povedano_Granada.png?raw=true">
 </a>
 <a href="https://research.pasteur.fr/en/member/lluis-quintana-murci/" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/QuintanaMurci_Pasteur.png?raw=true">
