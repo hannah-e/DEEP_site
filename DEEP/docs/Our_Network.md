@@ -45,6 +45,9 @@ Our network includes 20 project partners and cohorts worldwide, bringing togethe
 <a href="http://www.rod-am.eu" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Agyemang_Rodam.png?raw=true">
 </a>
+<a href="https://www.genyo.es/en/research/research-groups/genetics-and-genomics-of-immune-mediated-diseases/" target="_blank">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Alarcon_Riquelme_Granada.png?raw=true">
+</a>
 <a href="https://www.tgen.org/faculty-profiles/nicholas-banovich/" target="_blank">
 <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/Banovich_TGEN.png?raw=true">
 </a>
