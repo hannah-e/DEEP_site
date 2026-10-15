@@ -7,9 +7,9 @@ hide:
 # Our Network
 
 <p align="center">
-<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/world_map.png?raw=true">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_map.svg?raw=true">
 </p>
-Our network includes 20 project partners and cohorts worldwide, bringing together epigenetic and genetic data from over 13,000 individuals
+Our network includes 24 project partners and cohorts worldwide, bringing together epigenetic and genetic data from over 18,000 individuals
 
 ### Principal Investigators
 <a href="https://research-information.bris.ac.uk/en/persons/josine-l-min" target="_blank">
