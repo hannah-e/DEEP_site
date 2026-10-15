@@ -6,8 +6,8 @@ hide:
 
 # Our Network
 
-<p align="center">
-<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_map.svg?raw=true">
+<p align="left">
+<img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_map.svg?raw=true" width=800px>
 </p>
 Our network includes 24 project partners and cohorts worldwide, bringing together epigenetic and genetic data from over 18,000 individuals
 

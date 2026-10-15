@@ -26,6 +26,8 @@ The project will take several approaches to gain insights into possible factors 
 This 5-year project is funded by the Medical Research Council in the United Kingdom.
 
 </br>
+<p align="center">
 <a href="News">
   <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/News_header.png?raw=true" alt="News" style="width:500px;"/>
 </a>
+</p>
