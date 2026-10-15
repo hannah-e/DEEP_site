@@ -17,7 +17,7 @@ extra:
   #social: #add socials to footer
   #  - icon: fontawesome/brands/twitter 
   #    link: twitter.com
-copyright: Copyright &copy; 2025 DEEP
+copyright: Copyright &copy; 2026 DEEP
 
 extra_css:
   - stylesheets/extra.css
