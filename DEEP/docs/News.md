@@ -7,11 +7,18 @@ hide:
 # News
 **15 October 2026**<br>
 **DEEP conference contributions**
-
-<a href="https://research-information.bris.ac.uk/en/persons/haotian-tang-2" target="_blank">Haotian Tang</a> will present the DEEP pipeline "Understanding disease discordance across ancestries through federated analysis of DNA methylation variation in the DEEP Epigenetic Epidemiology Partnership (DEEP) study" at:
+<a href="https://research-information.bris.ac.uk/en/persons/haotian-tang-2" target="_blank">Haotian Tang</a>
+ will present the DEEP pipeline "Understanding disease discordance across ancestries through federated analysis of DNA methylation variation in the DEEP Epigenetic Epidemiology Partnership (DEEP) study" at:
 
 -  <a href="https://ashgmeeting.ashg.org/" target="_blank">American Society of Human Genetics</a>, Montreal: Friday, 23rd October 2026 (Board 4056F)<br>
 -  <a href="https://coursesandconferences.wellcomeconnectingscience.org/event/epigenomics-of-common-diseases-20261104/" target="_blank">Epigenomics of Common Diseases</a>, Cambridge, UK: 4th - 6th November 2026  
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <figure style="flex: 1 1 300px; max-width: 45%; text-align: center;">
+    <img src="https://github.com/hannah-e/DEEP_site/blob/gh-pages/assets/DEEP_ASHG_poster.jpg?raw=true" style="width:100%; height:auto; border-radius:8px;">
+    <figcaption>Haotian Tang presenting DEEP pipeline at American Society of Human Genetics Conference</figcaption>
+  </figure>
+  </div>  
 
 <br>
 <a href="https://research-information.bris.ac.uk/en/persons/josine-l-min" target="_blank">Josine Min</a> will present "Towards Equitable Population Epigenomics: Implications for DNA Methylation Research and Global Health" at: 
